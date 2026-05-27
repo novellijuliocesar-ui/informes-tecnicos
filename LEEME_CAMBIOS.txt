@@ -1,0 +1,9 @@
+CAMBIOS REALIZADOS
+
+- Se ha eliminado la sección de Firma / conformidad del HTML.
+- La fecha ahora aparece como "Día del informe".
+- El campo de fecha se rellena automáticamente con el día actual al abrir un formulario nuevo.
+- Se mantiene el nombre automático del PDF con Máquina/Zona + Día del informe.
+- Se mantienen técnicos, RT, zonas, logo/marca de agua y los botones Imprimir / Guardar PDF y Limpiar formulario.
+
+Para abrirlo: usa index.html.

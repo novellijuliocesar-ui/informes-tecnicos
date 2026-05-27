@@ -1,0 +1,35 @@
+INFORME TÉCNICO ACCIONA - HTML PARA ACCESO DIRECTO EN MÓVIL
+
+Esto NO es un APK de Android. Es un HTML preparado para abrirse desde un enlace y crear un acceso directo en la pantalla de inicio del móvil.
+
+ARCHIVOS IMPORTANTES
+- index.html: formulario principal.
+- manifest.json: nombre e icono del acceso directo.
+- icon-192.png / icon-512.png: iconos con logo de Acciona.
+- favicon.ico / favicon-32.png: icono de pestaña.
+- service-worker.js: caché básica para que cargue mejor después de abrirlo.
+- logo-acciona.png: logo usado para el icono.
+
+CÓMO USARLO EN SHAREPOINT
+1. Descomprime este ZIP en el PC.
+2. Sube TODOS los archivos a una carpeta de SharePoint, por ejemplo:
+   Documentos > Mantenimiento > InformeTecnicoAcciona
+3. Abre el archivo index.html desde SharePoint y copia el enlace.
+4. En el móvil Android, abre ese enlace con Chrome o Edge.
+5. Pulsa los tres puntos del navegador.
+6. Pulsa "Añadir a pantalla de inicio" o "Instalar aplicación".
+7. Ponle el nombre "Informe Técnico Acciona".
+8. Se creará un icono en la pantalla del móvil.
+
+IMPORTANTE
+- No abras index.html desde el ZIP ni desde la carpeta Descargas del móvil si quieres que salga bien el icono.
+- Para que el icono de Acciona se vea bien, debe abrirse desde un enlace web/SharePoint.
+- Si cambias iconos o nombre, borra el acceso directo viejo del móvil y créalo de nuevo.
+
+CAMBIOS INCLUIDOS
+- Cabecera blanca con título rojo.
+- Logo de Acciona en cabecera y marca de agua.
+- Técnicos actualizados sin Isaac Bernal.
+- RT actualizados en Responsable / RT y Validado por.
+- Instalación con zonas funcionales.
+- Botones visibles solo: Imprimir / Guardar PDF y Limpiar formulario.

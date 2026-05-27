@@ -1,0 +1,16 @@
+CAMBIO AÑADIDO - NOMBRE AUTOMÁTICO DEL PDF
+
+Al pulsar el botón "Imprimir / Guardar PDF", el HTML cambia temporalmente el título de la página para sugerir el nombre del PDF con este formato:
+
+Máquina/Zona_Fecha.pdf
+
+Ejemplo:
+Precintadora_Linea_2_2026-05-21.pdf
+
+IMPORTANTE:
+El HTML no puede forzar al 100% el nombre final del PDF, porque eso depende de Chrome, Edge, Android, Windows o el visor de impresión.
+Pero la mayoría de navegadores usan el título de la página como nombre sugerido al guardar el PDF.
+
+Los campos usados son:
+- Máquina / zona concreta
+- Fecha avería

@@ -1,0 +1,25 @@
+VALIDACIÓN ANTES DE GENERAR PDF
+
+En esta versión, al pulsar "Imprimir / Guardar PDF":
+
+1. No deja generar el PDF si falta algún campo del formulario.
+2. Los campos de escritura libre deben tener más de 3 palabras:
+   - Máquina / zona concreta
+   - ¿Qué ha pasado?
+   - Tiempo de parada
+   - Detalle adicional del diagnóstico
+   - Detalle adicional de la acción
+   - Observaciones finales
+3. Los desplegables y botones Sí/No deben estar seleccionados.
+4. Si falta algo, aparece un aviso arriba y marca los campos en rojo.
+
+Nota: Nº OT, fechas y horas no tienen mínimo de palabras porque son códigos/datos cortos.
+
+
+ACTUALIZACIÓN:
+- El campo Máquina / zona concreta ya no exige más de 3 palabras. Solo debe estar rellenado.
+
+
+CAMBIO ACTUALIZADO:
+- Se mantiene que todos los campos obligatorios estén rellenados antes de generar el PDF.
+- Ya NO se exige mínimo de más de 3 palabras en Máquina/Zona, ¿Qué ha pasado?, Tiempo de parada, Detalle adicional del diagnóstico, Detalle adicional de la acción ni Observaciones finales.

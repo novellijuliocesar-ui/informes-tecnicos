@@ -1,0 +1,7 @@
+Archivo principal renombrado:
+
+Informe Tecnico Acciona.html
+
+Para abrir el formulario, abre ese archivo.
+
+Nota: si lo subís a SharePoint o a una web, usad el enlace directo a este archivo.

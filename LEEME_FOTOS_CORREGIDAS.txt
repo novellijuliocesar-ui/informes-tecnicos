@@ -1,0 +1,10 @@
+FOTOS CORREGIDAS
+
+Se ha corregido la visualización de fotos para que no queden recortadas.
+
+Cambio aplicado:
+- Antes las imágenes usaban object-fit: cover, que llenaba el recuadro pero recortaba partes de la foto.
+- Ahora usan object-fit: contain, por lo que se ve la foto completa aunque pueda quedar algo de margen alrededor.
+
+Archivo principal:
+Informe Tecnico Acciona.html

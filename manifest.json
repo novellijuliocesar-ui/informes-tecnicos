@@ -1,0 +1,25 @@
+{
+  "name": "Informe Técnico Acciona",
+  "short_name": "Informe OT",
+  "description": "Formulario HTML para informes técnicos de mantenimiento",
+  "start_url": "./Informe%20Tecnico%20Acciona.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

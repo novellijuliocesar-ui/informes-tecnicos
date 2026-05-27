@@ -1,0 +1,55 @@
+INSTRUCCIONES - HTML ACCIONA CON DESPLEGABLES CORREGIDOS
+
+Esta versión tiene los desplegables escritos directamente dentro del HTML.
+Así, aunque el navegador no ejecute la parte automática de JavaScript, los técnicos, RT y opciones aparecen igualmente.
+
+ARCHIVO PARA ABRIR:
+- index.html
+
+TÉCNICOS INCLUIDOS:
+- Abraham Rodriguez Pujol
+- Adrian Valderrama Hidalgo
+- Antonio Castillejo
+- Eloi Arenas Garcia
+- Francisco Fernandez
+- Jan Vilaseca
+- Jean Carlos de Aza
+- Jose Luis Flores
+- Juan Antonio Carmona Mateo
+- Julio Cesar Novelli
+- Luis Manuel Cintado
+- Marc Tobeña
+- Mauricio Téllez Alvarez
+- Oscar Martínez Galera
+- Sergio Fernández
+- Victor Manuel
+- Xavi Pelaez González
+- Jonathan Varas
+- Aleix Cutal
+
+RT / RESPONSABLES INCLUIDOS:
+- Martin Arenas
+- Javier Amat
+- Matias Ezequiel
+- Ruben Harillo
+- Federico Casquero
+- Ruben Darío Delgado
+
+INSTALACIÓN:
+- Zona funcional entradas PAQ
+- Zona funcional reparto PAQ
+- Zona funcional retorno PAQ
+- Zona funcional expediciones PAQ/PRC
+- Zona funcional entradas PRC
+- Zona funcional reparto PRC
+- Zona funcional retorno PRC
+
+BOTONES DISPONIBLES:
+- Imprimir / Guardar PDF
+- Limpiar formulario
+
+Para cambiar nombres más adelante:
+1. Clic derecho sobre index.html
+2. Abrir con Bloc de notas
+3. Buscar el nombre que quieras cambiar
+4. Sustituirlo y guardar

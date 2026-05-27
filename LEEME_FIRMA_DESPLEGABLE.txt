@@ -1,0 +1,8 @@
+CAMBIO REALIZADO
+
+En la sección 8. Firma / conformidad se han sustituido los cuadros de firma por desplegables:
+
+- Firma / conformidad técnico: contiene la lista de técnicos.
+- Firma / conformidad Responsable / RT: contiene la lista de RT.
+
+Para usarlo, abre index.html.
